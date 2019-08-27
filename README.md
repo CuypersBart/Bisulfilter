@@ -6,7 +6,7 @@ specified by the user. Alternatively, it can also summarize the CG map file
 based on these criteria
 
 ```
-Usage Bisulfilter.py [-h] [-s] [-c INT] [-m FLOAT] CGmap
+Usage: Bisulfilter.py [-h] [-s] [-c INT] [-m FLOAT] CGmap
 
 positional arguments:
   CGmap       input CGmap
